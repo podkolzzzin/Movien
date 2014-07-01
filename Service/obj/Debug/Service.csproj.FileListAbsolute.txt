@@ -1,0 +1,9 @@
+E:\Projects\movien\movien\Service\bin\Debug\Service.dll.config
+E:\Projects\movien\movien\Service\bin\Debug\Service.dll
+E:\Projects\movien\movien\Service\bin\Debug\Service.pdb
+E:\Projects\movien\movien\Service\obj\Debug\Service.dll
+E:\Projects\movien\movien\Service\obj\Debug\Service.pdb
+E:\Projects\movien\movien\Service\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\movien\movien\Service\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\movien\movien\Service\bin\Debug\HtmlAgilityPack.xml
+E:\Projects\movien\movien\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache

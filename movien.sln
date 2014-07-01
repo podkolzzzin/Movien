@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{2BE29CD1-F2AE-44CF-B92A-AAE18A59B2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostFilm", "LostFilm\LostFilm.csproj", "{2EC8463D-DA21-47A4-A37E-283C6345BBF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D2654F9D-BAB1-44FF-920C-B3D07327E985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE29CD1-F2AE-44CF-B92A-AAE18A59B2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE29CD1-F2AE-44CF-B92A-AAE18A59B2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE29CD1-F2AE-44CF-B92A-AAE18A59B2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE29CD1-F2AE-44CF-B92A-AAE18A59B2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC8463D-DA21-47A4-A37E-283C6345BBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC8463D-DA21-47A4-A37E-283C6345BBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC8463D-DA21-47A4-A37E-283C6345BBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC8463D-DA21-47A4-A37E-283C6345BBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2BE29CD1-F2AE-44CF-B92A-AAE18A59B2A5} = {D2654F9D-BAB1-44FF-920C-B3D07327E985}
+		{2EC8463D-DA21-47A4-A37E-283C6345BBF9} = {D2654F9D-BAB1-44FF-920C-B3D07327E985}
+	EndGlobalSection
+EndGlobal

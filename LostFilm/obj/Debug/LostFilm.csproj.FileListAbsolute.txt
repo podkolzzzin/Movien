@@ -1,0 +1,11 @@
+E:\Projects\movien\movien\LostFilm\obj\Debug\LostFilm.csprojResolveAssemblyReference.cache
+E:\Projects\movien\movien\LostFilm\bin\Debug\LostFilm.exe.config
+E:\Projects\movien\movien\LostFilm\bin\Debug\LostFilm.exe
+E:\Projects\movien\movien\LostFilm\bin\Debug\LostFilm.pdb
+E:\Projects\movien\movien\LostFilm\bin\Debug\Service.dll
+E:\Projects\movien\movien\LostFilm\bin\Debug\Service.pdb
+E:\Projects\movien\movien\LostFilm\obj\Debug\LostFilm.exe
+E:\Projects\movien\movien\LostFilm\obj\Debug\LostFilm.pdb
+E:\Projects\movien\movien\LostFilm\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\movien\movien\LostFilm\bin\Debug\HtmlAgilityPack.pdb
+E:\Projects\movien\movien\LostFilm\bin\Debug\HtmlAgilityPack.xml
